@@ -9,5 +9,5 @@
 ## 安装
 
 ```bash
-curl -sSL https://github.com/zbronya/1panel-appstore/raw/master/install.sh | sudo bash
+curl -sSL https://github.com/zbronya/1panel-appstore/raw/main/install.sh | sudo bash
 ```
