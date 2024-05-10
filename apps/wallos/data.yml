@@ -1,0 +1,20 @@
+name: Wallos
+tags:
+  - 实用工具
+title: Wallos 订阅管理
+type: 实用工具
+description: Wallos 订阅管理
+additionalProperties:
+  key: wallos
+  name: Wallos
+  tags:
+    - Tool
+  shortDescZh: Wallos 订阅管理
+  shortDescEn: Wallos Subscription Tracker
+  type: tool
+  crossVersionUpdate: true
+  limit: 0
+  recommend: 0
+  website: https://github.com/ellite/Wallos
+  github: https://github.com/ellite/Wallos
+  document: https://github.com/ellite/Wallos
